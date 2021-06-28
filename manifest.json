@@ -1,0 +1,20 @@
+{
+  "short_name": "Ntamil Arts",
+  "name": "Ntamil Arts & Crafts",
+  "icons": [
+    {
+      "src": "images/logo.gif",
+      "type": "image/gif",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/logo.gif",
+      "type": "image/gif",
+      "sizes": "100x100"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
